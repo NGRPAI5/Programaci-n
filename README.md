@@ -44,6 +44,7 @@ hay mal que dure cien años.
 ejecute correctamente.
 
 -Ejercicios bucles con for:
+
 35. Programa que al introducir un número por teclado permita mostrar ese número de veces tu nombre.
 36. Programa que sume los n primeros números naturales. n Lo introduce el usuario.
 37.  Programa que pregunte cuantas notas quiero introducir y para cada nota diga si estoy aprobado o suspendido. 
@@ -61,6 +62,7 @@ ejecute correctamente.
 49. A partir del programa anterior, modifica el código para que al introducir la letra por teclado te indique en qué posición de la palabra se encuentra la letra. 
 
 -Ejercicios bucles con while:
+
 50. Realiza un programa que de los buenos días 3 veces. Con While.
 51. A partir del programa anterior, modifica el código para que sea el usuario quién introduzca el número de veces que desea que repita la frase Buenos días. Con While.
 52. Realiza un programa que sume dos números enteros por teclado y presente el resultado por pantalla. El programa preguntará si deseas o no repetir la operación. Con While.
